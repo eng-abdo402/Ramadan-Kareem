@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أدعية وأذكار</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: center;
+            background-image: url('777.png');
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 20px;
+            position: relative;
+        }
+        .logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 50px;
+        }
+        h1 {
+            color: white;
+            background: rgba(0, 0, 0, 0.5);
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-size: 1.8em;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            max-width: 95%;
+            margin: auto;
+        }
+        .dua-box {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s, box-shadow 0.2s, font-size 0.3s, background 0.3s;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .dua-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+        .dua-box:active {
+            transform: scale(1.1);
+            font-size: 1.3em;
+            background: rgba(255, 255, 200, 0.9);
+        }
+        .section-title {
+            font-size: 1.3em;
+            margin-top: 20px;
+            color: white;
+            background: rgba(0, 123, 255, 0.8);
+            display: inline-block;
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <img src="123.png" alt="لوجو الموقع" class="logo">
+    <h1>📖 أدعية وأذكار</h1>
+    ا
+    <!-- أدعية رمضان -->
+    <div class="section-title">🌙 أدعية رمضانية</div>
+    <div class="container">
+        <div class="dua-box">اللهم بلغنا رمضان وأعنا على صيامه وقيامه 🤲</div>
+        <div class="dua-box">اللهم اجعل صيامنا فيه مقبولًا وقيامنا مشكورًا 🌙</div>
+        <div class="dua-box">اللهم اغفر لنا وارحمنا واعتق رقابنا من النار في رمضان 🔥</div>
+        <div class="dua-box">اللهم اجعل رمضان شاهدًا لنا لا علينا، واغفر لنا ذنوبنا 🌸</div>
+        <div class="dua-box">اللهم ارزقنا ليلة القدر واجعل لنا فيها الخير كله 💫</div>
+        <div class="dua-box">اللهم اجعلنا من المقبولين وأكرمنا بكرمك في رمضان 🤍</div>
+        <div class="dua-box">اللهم اجعل لنا نصيبًا من رحمتك وغفرانك وعفوك 🙏</div>
+        <div class="dua-box">اللهم ارزقنا بركة العشر الأواخر من رمضان 🤲</div>
+    </div>
+    <!-- أذكار الصباح -->
+    <div class="section-title">☀ أذكار الصباح</div>
+    <div class="container">
+        <div class="dua-box">أصبحنا وأصبح الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له 🤲</div>
+        <div class="dua-box">اللهم بك أصبحنا وبك أمسينا وبك نحيا وبك نموت وإليك المصير ☀</div>
+        <div class="dua-box">اللهم إني أسألك خير هذا اليوم وخير ما بعده 🌿</div>
+        <div class="dua-box">اللهم إني أعوذ بك من الهم والحزن، والعجز والكسل، والجبن والبخل 🙏</div>
+        <div class="dua-box">اللهم احفظني من كل شر وأكرمني بعظيم فضلك 🤲</div>
+        <div class="dua-box">رضيت بالله ربًا، وبالإسلام دينًا، وبمحمد صلى الله عليه وسلم نبيًا 🤍</div>
+    </div>
+    <!-- أذكار المساء -->
+    <div class="section-title">🌙 أذكار المساء</div>
+    <div class="container">
+        <div class="dua-box">أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له 🤲</div>
+        <div class="dua-box">اللهم بك أمسينا وبك أصبحنا وبك نحيا وبك نموت وإليك المصير 🌙</div>
+        <div class="dua-box">اللهم اجعل ليلتنا هذه مباركة واملأها بالسكينة والرحمة 🤍</div>
+        <div class="dua-box">اللهم احفظ أهلنا وأحبابنا من كل شر وأكرمهم بعفوك 🤲</div>
+        <div class="dua-box">اللهم إنا نعوذ بك من شر ما خلقنا ومن شر الشيطان وشركه 🙏</div>
+    </div>
+    <!-- أذكار بعد الصلاة -->
+    <div class="section-title">🕌 أذكار بعد الصلاة</div>
+    <div class="container">
+        <div class="dua-box">أستغفر الله، أستغفر الله، أستغفر الله 🤲</div>
+        <div class="dua-box">اللهم أنت السلام ومنك السلام، تباركت يا ذا الجلال والإكرام 🕋</div>
+        <div class="dua-box">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير 🌿</div>
+        <div class="dua-box">اللهم أعني على ذكرك وشكرك وحسن عبادتك 🙏</div>
+        <div class="dua-box">سبحان الله (33 مرة)، الحمد لله (33 مرة)، الله أكبر (33 مرة) 💫</div>
+        <div class="dua-box">لا حول ولا قوة إلا بالله العلي العظيم 🤍</div>
+        <div class="dua-box">اللهم اغفر لي ولوالدي وللمسلمين والمسلمات الأحياء منهم والأموات 🤲</div>
+    </div>
+</body>
+</html>
