@@ -9,7 +9,8 @@
             font-family: Arial, sans-serif;
             direction: rtl;
             text-align: center;
-            background-image: url('777.png');
+            background-image: url("https://res.cloudinary.com/dnsxjummx/image/upload/v1739403053/000/wprdgdh6lzoai0wyk4iy.png");
+            /* background-image: url('777.png'); */
             background-size: cover;
             background-position: center;
             margin: 0;
@@ -68,9 +69,14 @@
     </style>
 </head>
 <body>
-    <img src="123.png" alt="لوجو الموقع" class="logo">
+
+    <!-- <img src="https://drive.google.com/file/d/1tomRqW4-j8E11bw6bGsztHb_dz21W7ox/view?usp=sharing" alt="لوجو الموقع" class="logo"> -->
+    <img src="https://res.cloudinary.com/dnsxjummx/image/upload/v1739403052/000/efcbnzksktyrqzkmrxit.png" alt="لوجو الموقع" class="logo">
+    <!-- <img src="123.png" alt="لوجو الموقع" class="logo"> -->
+
     <h1>📖 أدعية وأذكار</h1>
     ا
+
     <!-- أدعية رمضان -->
     <div class="section-title">🌙 أدعية رمضانية</div>
     <div class="container">
@@ -83,6 +89,7 @@
         <div class="dua-box">اللهم اجعل لنا نصيبًا من رحمتك وغفرانك وعفوك 🙏</div>
         <div class="dua-box">اللهم ارزقنا بركة العشر الأواخر من رمضان 🤲</div>
     </div>
+
     <!-- أذكار الصباح -->
     <div class="section-title">☀ أذكار الصباح</div>
     <div class="container">
@@ -93,6 +100,7 @@
         <div class="dua-box">اللهم احفظني من كل شر وأكرمني بعظيم فضلك 🤲</div>
         <div class="dua-box">رضيت بالله ربًا، وبالإسلام دينًا، وبمحمد صلى الله عليه وسلم نبيًا 🤍</div>
     </div>
+
     <!-- أذكار المساء -->
     <div class="section-title">🌙 أذكار المساء</div>
     <div class="container">
@@ -102,6 +110,7 @@
         <div class="dua-box">اللهم احفظ أهلنا وأحبابنا من كل شر وأكرمهم بعفوك 🤲</div>
         <div class="dua-box">اللهم إنا نعوذ بك من شر ما خلقنا ومن شر الشيطان وشركه 🙏</div>
     </div>
+
     <!-- أذكار بعد الصلاة -->
     <div class="section-title">🕌 أذكار بعد الصلاة</div>
     <div class="container">
@@ -113,5 +122,6 @@
         <div class="dua-box">لا حول ولا قوة إلا بالله العلي العظيم 🤍</div>
         <div class="dua-box">اللهم اغفر لي ولوالدي وللمسلمين والمسلمات الأحياء منهم والأموات 🤲</div>
     </div>
+
 </body>
 </html>
