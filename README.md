@@ -135,7 +135,7 @@
     </div>
 
     <div class="section-title">
-     قران كريم:
+     قران كريم:اضغط هنا
        <a href="https://quran.ksu.edu.sa/m.php#aya=1_1" target="_blank">اضغط هنا</a>
     </div>
 </body>
