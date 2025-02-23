@@ -133,10 +133,12 @@
         <div class="dua-box">اللهم اجعلني من عبادك الصالحين الذين لا خوف عليهم ولا هم يحزنون 🤲</div>
         <div class="dua-box">اللهم ارزقني بر والدي ورضاهما عني 🤍</div>
     </div>
-
     <div class="section-title">
-     قران كريم:اضغط هنا
-       <a href="https://quran.ksu.edu.sa/m.php#aya=1_1" target="_blank">اضغط هنا</a>
+        📖 قرآن كريم: 
+        <a href="https://quran.ksu.edu.sa/m.php#aya=1_1" target="_blank" style="color: yellow; font-weight: bold; text-decoration: none;">
+            اضغط هنا
+        </a>
     </div>
+    
 </body>
 </html>
